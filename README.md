@@ -4,3 +4,4 @@
 👩🏻‍💻 Learning about Artificial Intelligence, Quantum computing, Bioengineering.  
 🌎 Want to travel the world. Here is a website that I dedicate to traveling: https://www.travel-destinations.net/.  
 📫 How to reach me: krivonos.alexandra25@gmail.com    
+<script src="https://tryhackme.com/badge/342349"></script>
